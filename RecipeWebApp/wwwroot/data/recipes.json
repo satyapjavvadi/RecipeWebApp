@@ -1,0 +1,39 @@
+[
+
+  {
+    "id": "recipe1",
+    "maker": "Satya",
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Dal",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe2",
+    "maker": "Satya",
+    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+    "title": "Omelette",
+    "ingredients": "Eggs",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe3",
+    "maker": "Satya",
+    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+    "title": "Sandwich",
+    "ingredients": "Bread",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe4",
+    "maker": "Satya",
+    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+    "title": "Burger",
+    "ingredients": "Bread, Egg",
+    "procedure": "This is a very simple recipe"
+  }
+]
