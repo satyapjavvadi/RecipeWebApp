@@ -5,11 +5,20 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Recipe Web App</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+   <!-- <h1 class="display-4">Mom's Diaries</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> -->
+
+
 </div>
 
-@foreach (var recipe in Model.Recipes)
-{
-    <h2>@recipe.Title</h2>
-}
+<div class="card-columns">
+    @foreach (var recipe in Model.Recipes)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image: url('@recipe.Image')"></div>
+            <div class="card-body">
+                <h5 class="card-title">@recipe.Title</h5>
+            </div>
+        </div>
+    }
+</div>

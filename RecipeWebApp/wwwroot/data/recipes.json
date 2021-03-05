@@ -3,7 +3,7 @@
   {
     "id": "recipe1",
     "maker": "Satya",
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
     "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
     "title": "Dal",
     "ingredients": "Toor dal",
@@ -12,28 +12,127 @@
   {
     "id": "recipe2",
     "maker": "Satya",
-    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
     "url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
-    "title": "Omelette",
-    "ingredients": "Eggs",
+    "title": "Jalebi",
+    "ingredients": "Bread",
     "procedure": "This is a very simple recipe"
   },
   {
     "id": "recipe3",
     "maker": "Satya",
-    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
     "url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
-    "title": "Sandwich",
+    "title": "Omelette",
     "ingredients": "Bread",
     "procedure": "This is a very simple recipe"
   },
   {
     "id": "recipe4",
     "maker": "Satya",
-    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
     "url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
     "title": "Burger",
     "ingredients": "Bread, Egg",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe5",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2021/02/03/10/56/karanji-5977502_960_720.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Kajjikayalu",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe6",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Smoothie",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe7",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Aloo Paratha",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe8",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Mushroom Fried Rice",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe9",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Masala Poori with Potato curry",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe10",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Broken Wheat Upma",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe11",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Chilli Cheese Toast",
+    "ingredients": "Chilli Cheese Toast",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe12",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Pizza",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe13",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Muffins",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe14",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Black Forest Cake",
+    "ingredients": "Toor dal",
+    "procedure": "This is a very simple recipe"
+  },
+  {
+    "id": "recipe15",
+    "maker": "Satya",
+    "img": "https://cdn.pixabay.com/photo/2015/06/23/05/23/fresh-jalebi-818316__340.jpg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Cheese Corn Balls",
+    "ingredients": "Toor dal",
     "procedure": "This is a very simple recipe"
   }
 ]
