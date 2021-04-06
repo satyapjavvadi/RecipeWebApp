@@ -28,6 +28,7 @@ namespace RecipeWebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddServerSideBlazor();
             services.AddControllers();
             services.AddTransient<JsonFileRecipeService>();
         }
@@ -57,6 +58,7 @@ namespace RecipeWebApp
             {
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
+                endpoints.MapBlazorHub();
                 //endpoints.MapGet("/recipes", (context) =>
                 //{
                 //    var recipes = app.ApplicationServices.GetService<JsonFileRecipeService>().GetRecipes();
