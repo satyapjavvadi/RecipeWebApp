@@ -1,4 +1,5 @@
 ﻿@page
+@using RecipeWebApp.Components
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -11,14 +12,9 @@
 
 </div>
 
-<div class="card-columns">
-    @foreach (var recipe in Model.Recipes)
-    {
-        <div class="card">
-            <div class="card-img" style="background-image: url('@recipe.Image')"></div>
-            <div class="card-body">
-                <h5 class="card-title">@recipe.Title</h5>
-            </div>
-        </div>
-    }
-</div>
+
+
+@(await Html.RenderComponentAsync<RecipeList>(RenderMode.ServerPrerendered))
+
+
+<script src="_framework/blazor.server.js"></script>
